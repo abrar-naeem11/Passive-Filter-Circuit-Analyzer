@@ -1,6 +1,6 @@
 # Passive-Filter-Circuit-Analyzer
 
-**Problem Statement:** Solve a simple passive filter circuit. 
+**Problem Statement:** Solve a simple passive filter circuit.\n
 1 Input will be the type of filter (low pass, high pass, band pass, band stop) and 
 components used (resistor, capacitor, inductor, and their values).  
 2 Show the schematics of the given circuit. 
