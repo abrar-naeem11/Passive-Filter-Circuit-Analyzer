@@ -1,13 +1,36 @@
 # Passive-Filter-Circuit-Analyzer
 
-**Problem Statement:** Solve a simple passive filter circuit.\n
-1 Input will be the type of filter (low pass, high pass, band pass, band stop) and 
-components used (resistor, capacitor, inductor, and their values).  
-2 Show the schematics of the given circuit. 
-3 Calculate the parameters of the circuit such as cutoff frequencies, center 
-frequency, bandwidth, quality factor. 
-4 Generate gain vs frequency and phase vs frequency curve. 
-5 Find the values of components for a given type of filter having specific cutoff 
-frequencies, center frequency, bandwidth, quality factor. 
-6 Show the output and spectrum of the filter for any input given the user.  
-7 Build a suitable GUI. 
+## 🧠 Problem Statement
+
+Develop a tool to analyze and simulate passive filter circuits. The application should perform the following:
+
+1. **Filter Type Input:**  
+   Accept input for the type of filter (Low Pass, High Pass, Band Pass, Band Stop) and component values (Resistor, Capacitor, Inductor).
+
+2. **Circuit Visualization:**  
+   Display the schematic diagram based on the input components and filter type.
+
+3. **Parameter Calculation:**  
+   Compute key parameters:
+   - Cutoff frequency
+   - Center frequency
+   - Bandwidth
+   - Quality factor (Q)
+
+4. **Frequency Response Plots:**  
+   Generate:
+   - Gain vs Frequency plot
+   - Phase vs Frequency plot
+
+5. **Filter Design:**  
+   Determine component values for a filter with user-defined specifications:
+   - Cutoff frequencies
+   - Center frequency
+   - Bandwidth
+   - Quality factor
+
+6. **Signal Analysis:**  
+   Simulate and display the output signal and spectrum for a given input waveform.
+
+7. **Graphical User Interface:**  
+   Provide a user-friendly GUI for all features above.
